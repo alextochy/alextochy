@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alextochy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML5, CSS3, Javascript and Python
-- 💞️ I’m looking to collaborate on interesting projects and problem solving
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me:
 
 <!---
