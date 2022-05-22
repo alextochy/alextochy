@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexcolman T. Apunike
-- 👀 I’m interested in Fullstack Software Development
+- 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning Java SE/EE, Spring Framework (backend), HTML5, CSS3, and Javascript (frontend).
 - 💞️ I’m looking for job opportunities as a Java Junior Developer, as a Web Developer and i also hope to collaborate on interesting projects.
 - 📫 How to reach me: alexcolman.apunike@gmail.com
