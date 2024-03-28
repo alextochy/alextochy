@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning Java SE/EE, Spring Framework (backend), HTML5, CSS3, Javascript, PHP, Python, C/C++.
 - :briefcase: Currently working as an SFMC Developer (HTML Email Development)
-- 💞️ I would consider pportunities as a Java, Python or Web Developer and i also hope to collaborate on interesting projects.
+- 💞️ I would consider opportunities as a Java, Python or Web Developer and i also hope to collaborate on interesting projects.
 - 📫 How to reach me: alexcolman.apunike@gmail.com
 
 <!---
